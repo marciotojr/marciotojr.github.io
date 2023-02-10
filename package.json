@@ -1,0 +1,19 @@
+{
+  "name": "marciotojr.github.io",
+  "version": "1.0.0",
+  "description": "Site pessoal",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciotojr/marciotojr.github.io.git"
+  },
+  "author": "Marcio Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciotojr/marciotojr.github.io/issues"
+  },
+  "homepage": "https://github.com/marciotojr/marciotojr.github.io#readme"
+}

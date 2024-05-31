@@ -1,0 +1,54 @@
+{
+    "static": {
+        "resume_path": "files/CV - Marcio - pt_br.pdf",
+        "resume": "Resume",
+        "title": "Software Engineer and Full-Stack Developer",
+        "birth": "BIRTH",
+        "birth_date": "July 16, 1993",
+        "experience": "Academic and Professional Experience",
+        "experience_sub": "PREVIOUS EXPERIENCES",
+        "education": "EDUCATION",
+        "education_sub": "ACADEMIC CAREER",
+        "aboutme": "ABOUT ME",
+        "neighborhood": "Granbery",
+        "city": "Juiz de Fora - MG",
+        "phone": "(32) 99834-4117"
+    },
+    "bio": "Master's degree from the Federal University of Juiz de Fora since 2019. Always curious about computing, seeking to learn new languages, techniques, and tools.",
+    "experience": [
+        {
+            "title": "SOFTWARE ENGINEER",
+            "company": "LEVTY SYSTEMS",
+            "begin": "MAY 2020",
+            "end": "AUGUST 2022",
+            "description": "Software development in conjunction with the extension of the SYDLE ONE platform, using it as a backend in the backend as a service mode.",
+            "list": [
+                "SYDLE ONE",
+                "Node.js",
+                "Elasticsearch",
+                "React"
+            ]
+        },
+        {
+            "title": "SOFTWARE DEVELOPER",
+            "company": "CEAD @ Federal University of Juiz de Fora",
+            "begin": "OCTOBER 2018",
+            "end": "AUGUST 2019",
+            "description": "Development and maintenance of external system software for the registration of selection process notices for students and tutors for courses managed by the Distance Education Center of UFJF, and an internal financial administration system and process monitoring of these notices. Occasional development of Wordpress themes.",
+            "list": [
+                "Software development in Java and PHP.", 
+                "UI/UX design.", 
+                "Creation of Wordpress themes with Materialize and CSS 3."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "BACHELOR'S DEGREE IN COMPUTER SCIENCE",
+            "institution": "DCC @ FEDERAL UNIVERSITY OF JUIZ DE FORA",
+            "begin": "2015",
+            "end": "CURRENTLY",
+            "description": "The Bachelor's Degree in Computer Science at the Federal University of Juiz de Fora has computing as its main activity and aims to train professionals with deep technical and scientific foundation in the area, capable of entering professional, academic, and scientific sectors, and contributing to the development of Brazilian society and the advancement of science and technology."
+        }
+    ]
+}

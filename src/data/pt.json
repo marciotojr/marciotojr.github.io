@@ -1,0 +1,54 @@
+{
+    "static":{
+        "resume_path":"files/CV - Marcio - pt_br.pdf",
+        "resume": "Currículo",
+        "title": "Engenheiro de Software e Desenvolvedor Full-Stack",
+        "birth": "NASCIMENTO",
+        "birth_date": "16 de julho de 1993",
+        "experience": "Experiência Acadêmica e Profissional",
+        "experience_sub": "EXPERIÊNCIAS ANTERIORES",
+        "education": "EDUCACAO",
+        "education_sub": "CARREIRA ACADÊMICA",
+        "aboutme": "SOBRE MIM",
+        "neighborhood":"Granbery",
+        "city":"Juiz de Fora - MG",
+        "phone":"(32) 99834-4117"
+    },
+    "bio":"Mestre pela Universidade Federal de Juiz de Fora desde 2019. Sempre curioso por computação, buscando aprender novas linguagens, técnicas e ferramentas.",
+    "experience": [
+        {
+            "title": "ENGENHEIRO DE SOFTWARE",
+            "company": "LEVTY SISTEMAS",
+            "begin": "MAIO 2020",
+            "end": "AGOSTO 2022",
+            "description":"Desenvolvimento de software em conjunto à extensão da plataforma SYDLE ONE, usando-a como backend, na modalidade backend as a service.",
+            "list": [
+                "SYDLE ONE",
+                "Node.js",
+                "Elasticsearch",
+                "React"
+            ]
+        },
+        {
+            "title": "DESENVOLVEDOR DE SOFTWARE",
+            "company": "CEAD @ Universidade Federal de Juiz de Fora",
+            "begin": "OUTUBRO 2018",
+            "end": "AGOSTO 2019",
+            "description":"Desenvolvimento e manutenção de software de sistema externo para inscrição em editais de seleção de alunos e tutores para disciplinas administradas pelo Centro de Ensino à Distância da UFJF, e de sistema interno de administração financeira e de acompanhamento de processos destes editais. Eventual desenvolvimento de temas Wordpress.",
+            "list": [
+                "Desenvolvimento de software em Java e PHP.", 
+                "UI/UX design.", 
+                "Criação de temas Wordpress com Materialize e CSS 3."
+            ]
+        }
+    ],
+    "education":[
+        {
+            "title": "BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO",
+            "institution": "DCC @ UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+            "begin": "2015",
+            "end": "ATUALMENTE",
+            "description":"O curso de Bacharelado em Ciência da Computação da Universidade Federal de Juiz de Fora tem a computação como atividade-fim e desta forma tem por objetivo formar profissionais com profunda fundamentação técnica e científica na área, aptos para a inserção em setores profissionais, acadêmicos e científicos, e que possam participar do desenvolvimento da sociedade brasileira e contribuir para o avanço da ciência e da tecnologia."
+        }
+    ]
+}

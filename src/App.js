@@ -9,14 +9,21 @@ import {Bio, Education, Experience, Footer, Header, Intro} from './components';
 
 const data = {en:{ translation: en_translation}, pt:{ translation: pt_translation}}
 
-i18next.init({
-	lng: 'en',
-	debug: true,
-	resources: data
-});
-
 
 function App() {
+  
+  const [lang, setLang] = React.useState('pt');
+
+  function handleLangChange(lang){
+    setLang(lang);
+  }
+
+  i18next.init({
+    lng: lang,
+    debug: true,
+    resources: data
+  });
+
   return (
     <div className="App">
       <Header
@@ -26,6 +33,7 @@ function App() {
         phone={i18next.t('static.phone')}
         neighborhood={i18next.t('static.neighborhood')}
         city={i18next.t('static.city')}
+        handleClick={handleLangChange}
       />
       <Intro 
         birth={i18next.t('static.birth')} 

@@ -1,11 +1,11 @@
-export default function Header({STATIC, resume, resumePath, phone, neighborhood, city}) {
+export default function Header({STATIC, resume, resumePath, phone, neighborhood, city, handleClick}) {
     return (
       <header>
           <div className="container">
               <div className="heading-wrapper">
                 <div className="row justify-content-md-end">
-                    <button>&#127463;&#127479;</button>
-                    <button>&#127482;&#127480;</button>
+                    <button onClick={() => handleClick('pt')}>&#127463;&#127479;</button>
+                    <button onClick={() => handleClick('en')}>&#127482;&#127480;</button>
                 </div>
                   <div className="row">
                       <div className="col-sm-6 col-md-6 col-lg-4">

@@ -17,11 +17,39 @@
     "bio": "Master's degree from the Federal University of Juiz de Fora since 2019. Always curious about computing, seeking to learn new languages, techniques, and tools.",
     "experience": [
         {
+            "title": "SYSTEMS ANALYST",
+            "company": "CAEd",
+            "begin": "AUGUST 2023",
+            "end": "PRESENT",
+            "description": "Fullstack development of <a href='https://caeddigital.net/tecnologias-2/plataformacaed.html'>platforms for conducting and monitoring educational assessments</a> for multiple educational entities, from private institutions to government education ministries. The implemented platforms allow a high degree of customization through low-code implementations to meet the specific requirements of each partner. Implementation of generalized packages of components for forms, results, data filtering, and more.",
+            "list": [
+                "Node.js",
+                "Angular",
+                "Redis/Bull",
+                "Parse",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "TEAM TECH LEAD",
+            "company": "LEVTY SISTEMAS",
+            "begin": "DECEMBER 2020",
+            "end": "AUGUST 2023",
+            "description": "Led projects in the areas of education and news. At <a href='https://jornaldocarro.estadao.com.br/'>Jornal do Carro</a> and <a href='https://estradao.estadao.com.br/'>Estradão</a>, specialized vehicle news portals, as well as at the <a href='https://www.tjsc.jus.br/web/academia-judicial/sistemas-aj'>Judicial Academy</a>, leading the implementation of a system to promote the educational development of professionals in the judicial system of Santa Catarina state. Supported the development of trainees, architected solutions, developed and tested applications, optimized pages for speed and user experience, and conducted A/B tests.",
+            "list": [
+                "SYDLE ONE",
+                "Node.js",
+                "Elasticsearch",
+                "React",
+                "Wordpress"
+            ]
+        },
+        {
             "title": "SOFTWARE ENGINEER",
-            "company": "LEVTY SYSTEMS",
+            "company": "LEVTY SISTEMAS",
             "begin": "MAY 2020",
-            "end": "AUGUST 2022",
-            "description": "Software development in conjunction with the extension of the SYDLE ONE platform, using it as a backend in the backend as a service mode.",
+            "end": "DECEMBER 2020",
+            "description": "Developed features for the SYDLE ONE communication module and resources for <a href='https://processbox.org'>ProcessBox</a>, a BPMN repository. Developed the frontend for <a href='https://doglife.sydle.one'>Dog Life</a> and the <a href='https://sydle.one'>SYDLE blog</a>.",
             "list": [
                 "SYDLE ONE",
                 "Node.js",
@@ -34,21 +62,90 @@
             "company": "CEAD @ Federal University of Juiz de Fora",
             "begin": "OCTOBER 2018",
             "end": "AUGUST 2019",
-            "description": "Development and maintenance of external system software for the registration of selection process notices for students and tutors for courses managed by the Distance Education Center of UFJF, and an internal financial administration system and process monitoring of these notices. Occasional development of Wordpress themes.",
+            "description": "Developed and maintained external software for enrolling students and tutors in courses managed by the Distance Learning Center of UFJF, and internal software for financial administration and process tracking of these courses. Occasionally developed Wordpress themes.",
             "list": [
                 "Software development in Java and PHP.", 
                 "UI/UX design.", 
                 "Creation of Wordpress themes with Materialize and CSS 3."
             ]
+        },
+        {
+            "title": "SOFTWARE DEVELOPER",
+            "company": "@ MANAGER SAÚDE",
+            "begin": "AUGUST 2019",
+            "end": "DECEMBER 2019",
+            "description": "Maintenance of pharmaceutical product quotation software and implementation of an internal Wiki.",
+            "list": [
+                "C#",
+                "ASP.NET MVC",
+                "Entity Framework",
+                "Implementation of Wiki with BookStack"
+            ]
+        },
+        {
+            "title": "SOFTWARE ENGINEERING RESEARCHER",
+            "company": "CAPES @ Federal University of Juiz de Fora",
+            "begin": "MARCH 2017",
+            "end": "DECEMBER 2019",
+            "description": "Researcher focused on Recommendation Systems in Software Ecosystems. The work developed is based on recommending developers for projects, considering their experience and domain knowledge within the NPM (Node Package Manager) and Github ecosystems.",
+            "list": [
+                "Development of Recommendation System.",
+                "Research on developer interactions within Software Ecosystems.",
+                "Participation in national project evaluations conducted by industry experts."
+            ]
+        },
+        {
+            "title": "RESEARCHER AND SOFTWARE DEVELOPER",
+            "company": "GETCOMP @ Federal University of Juiz de Fora",
+            "begin": "OCTOBER 2012",
+            "end": "JUNE 2014",
+            "description": "Researcher and software developer for matching XML files to understand the evolution of files by version control systems, e.g. Git; SVN; Mercurial.",
+            "list": [
+                "Software development in Java.",
+                "Development of desktop applications."
+            ]
+        },
+        {
+            "title": "IT INTERN",
+            "company": "KIKA COLORIDA",
+            "begin": "JANUARY 2011",
+            "end": "MARCH 2011",
+            "description": "Internship for the Industrial Informatics Technical Course.",
+            "list": [
+                "Computer maintenance.",
+                "IT routines.",
+                "Troubleshooting."
+            ]
         }
     ],
     "education": [
         {
-            "title": "BACHELOR'S DEGREE IN COMPUTER SCIENCE",
-            "institution": "DCC @ FEDERAL UNIVERSITY OF JUIZ DE FORA",
-            "begin": "2015",
-            "end": "CURRENTLY",
-            "description": "The Bachelor's Degree in Computer Science at the Federal University of Juiz de Fora has computing as its main activity and aims to train professionals with deep technical and scientific foundation in the area, capable of entering professional, academic, and scientific sectors, and contributing to the development of Brazilian society and the advancement of science and technology."
+            "title": "MASTER'S IN COMPUTER SCIENCE",
+            "institution": "PPGCC @ Federal University of Juiz de Fora",
+            "begin": "2017",
+            "end": "2019",
+            "description": "The Master's course in Computer Science prepares professionals to research, teach, and contribute to the evolution of scientific and technological knowledge in Computer Science, and to use this knowledge in evaluating, specifying, and developing new mathematical and computational models, tools, methods, and systems."
+        },
+        {
+            "title": "SANDWICH BACHELOR'S IN SOFTWARE ENGINEERING",
+            "institution": "COLLEGE OF COMPUTING AND DIGITAL MEDIA @ DE PAUL UNIVERSITY (CHICAGO/USA)",
+            "begin": "2014",
+            "end": "2015",
+            "description": "The Bachelor's course in Computer Science at the Federal University of Juiz de Fora focuses on computing as the main activity and aims to train professionals with deep technical and scientific foundations in the field, capable of entering professional, academic, and scientific sectors, and contributing to the development of Brazilian society and the advancement of science and technology."
+        },
+        {
+            "title": "BACHELOR'S IN EXACT SCIENCES (FOCUS ON COMPUTER SCIENCE)",
+            "institution": "DCC @ Federal University of Juiz de Fora",
+            "begin": "2011",
+            "end": "2017",
+            "description": "The Bachelor's course in Computer Science at the Federal University of Juiz de Fora focuses on computing as the main activity and aims to train professionals with deep technical and scientific foundations in the field, capable of entering professional, academic, and scientific sectors, and contributing to the development of Brazilian society and the advancement of science and technology."
+        },
+        {
+            "title": "TECHNICAL COURSE IN INFORMATICS INTEGRATED WITH HIGH SCHOOL",
+            "institution": "@ IF SUDESTE DE MINAS GERAIS",
+            "begin": "2008",
+            "end": "2010",
+            "description": "The Informatics course trains professionals to work in programming, assembling and maintaining standalone or networked computers. The professional is qualified to identify the origin of computer, peripheral, and program malfunctions; perform machine language programming; create small digital circuits to be connected to microprocessors; develop algorithms and data structures for creating applications; apply programming languages and environments in software development; and perform training and technical support actions."
         }
     ]
 }

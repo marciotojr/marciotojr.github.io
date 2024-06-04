@@ -17,11 +17,38 @@
     "bio":"Mestre pela Universidade Federal de Juiz de Fora desde 2019. Sempre curioso por computação, buscando aprender novas linguagens, técnicas e ferramentas.",
     "experience": [
         {
+            "title": "ANALISTA DE SISTEMAS",
+            "company": "CAEd",
+            "begin": "AGOSTO 2023",
+            "end": "ATUALMENTE",
+            "description":"Desenvolvimento fullstack de <a href='https://caeddigital.net/tecnologias-2/plataformacaed.html'>plataformas de condução e monitoramento de avaliação do ensino</a> para múltiplas entidades de ensino desde instituições partitulares até ministérios de educação governamentais. As plataformas implantadas permitem um alto grau de customização através de implementações low-code para adequação aos requisitos próprios de cada parceiro. Implementação de pacotes generalizados de componentes de formulário, resultados, filtragem de dados, entre outros.",
+            "list": [
+                "Node.js",
+                "Angular",
+                "Redis/Bull",
+                "Parse",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "TEAM TECH LEAD",
+            "company": "LEVTY SISTEMAS",
+            "begin": "DEZEMBRO 2020",
+            "end": "AGOSTO 2023",
+            "description":"Condução de projetos nas áreas de educação e notícias. No <a href='https://jornaldocarro.estadao.com.br/'>Jornal do Carro</a> e no <a href='https://estradao.estadao.com.br/'>Estradão</a>, portais de notícias especializados em veículos, bem como na <a href='https://www.tjsc.jus.br/web/academia-judicial/sistemas-aj'>Academia Judicial</a>, conduzindo a implementação de um sistema para promover o desenvolvimento da educação dos profissionais do sistema judiciário do estado de Santa Catarina. Apoiando o desenvolvimento de trainees, arquitetando soluções, desenvolvendo e testando aplicações, otimizando páginas para velocidade e experiência do usuário, e conduzindo testes A/B.",
+            "list": [
+                "SYDLE ONE",
+                "Node.js",
+                "Elasticsearch",
+                "React",
+                "Wordpress"
+            ]
+        },{
             "title": "ENGENHEIRO DE SOFTWARE",
             "company": "LEVTY SISTEMAS",
             "begin": "MAIO 2020",
-            "end": "AGOSTO 2022",
-            "description":"Desenvolvimento de software em conjunto à extensão da plataforma SYDLE ONE, usando-a como backend, na modalidade backend as a service.",
+            "end": "DEZEMBRO 2020",
+            "description":"Desenvolvimento de funcionalidades para o módulo de comunicação do SYDLE ONE e de recursos do <a href='https://processbox.org'>ProcessBox</a>, um repositório BPMN. Desenvolvimento do frontend do <a href='https://doglife.sydle.one'>Dog Life</a> e do <a href='https://sydle.one'>blog da SYDLE</a>.",
             "list": [
                 "SYDLE ONE",
                 "Node.js",
@@ -40,15 +67,81 @@
                 "UI/UX design.", 
                 "Criação de temas Wordpress com Materialize e CSS 3."
             ]
+        },
+        {
+            "title": "DESENVOLVEDOR DE SOFTWARE",
+            "company": "@ MANAGER SAÚDE",
+            "begin": "AGOSTO 2019",
+            "end": "DEZEMBRO 2019",
+            "description":"Manutenção de software de cotação de produtos farmacêuticos e implantação de Wiki interna.",
+            "list": [
+                "C#",
+                "ASP.NET MVC",
+                "Entity Framework",
+                "Implantação de Wiki com BookStack"
+            ]
+        },
+        {
+            "title": "PESQUISADOR EM ENGENHARIA DE SOFTWARE",
+            "company": "CAPES @ UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+            "begin": "MARÇO 2017",
+            "end": "DEZEMBRO 2019",
+            "description":"Pesquisador focado em Sistemas de Recomendação em Ecosistemas de Software. O trabalho desenvolvido se baseia em recomendar desenvolvedores para projetos, observando a experiência e tópicos de conhecimento de domínio dentro dos ecosistemas do NPM (Node Package Manager) e do Github.",
+            "list": [
+                "Desenvolvimento de Sistema de Recomendação.",
+                "Pesquisa sobre interações de desenvolvedores dentro de Ecosistemas de Software.",
+                "Participação em avaliação de projeto em ambito nacional executada por nomes da área."
+            ]
+        },
+        {
+            "title": "PESQUISADOR E DESENVOLVEDOR DE SOFTWARE",
+            "company": "GETCOMP @ UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+            "begin": "OUTUBRO 2012",
+            "end": "JUNHO 2014",
+            "description":"Pesquisador e desenvolvedor de software para matching de arquivos XML para compreensão da evolução dos arquivos por sistemas de versionamento, e.g. Git; SVN; Mercurial.",
+            "list": [
+                "Desenvolvimento de software em Java.",
+                "Desenvolvimento de aplicativos desktop."
+            ]
+        },
+        {
+            "title": "ESTAGIÁRIO DE TI",
+            "company": "KIKA COLORIDA",
+            "begin": "JANEIRO 2011",
+            "end": "MARÇO 2011",
+            "description":"Estágio do Curso Técnico em Informática Industrial.",
+            "list": [
+                "Manutenção de computadores.",
+                "Rotinas de TI.",
+                "Troubleshooting."
+            ]
         }
     ],
     "education":[
         {
-            "title": "BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO",
-            "institution": "DCC @ UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
-            "begin": "2015",
-            "end": "ATUALMENTE",
+            "title": "MESTRADO EM CIÊNCIA DA COMPUTAÇÃO",
+            "institution": "PPGCC @ UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+            "begin": "2017",
+            "end": "2019",
+            "description":"O curso de Mestrado em Ciência da Computação prepara profissionais capacitados para pesquisar, ensinar e contribuir para a evolução do conhecimento científico e tecnológico na área de Ciência da Computação, e que sejam capazes de utilizar este conhecimento na avaliação, especificação e desenvolvimento de novos modelos matemáticos e computacionais, ferramentas, métodos e sistemas computacionais."
+        },{
+            "title": "BACHARELADO SANDUÍCHE EM ENGENHARIA DE SOFTWARE",
+            "institution": "COLLEGE OF COMPUTING AND DIGITAL MEDIA @ DE PAUL UNIVERSITY (CHICAGO/EUA)",
+            "begin": "2014",
+            "end": "2015",
             "description":"O curso de Bacharelado em Ciência da Computação da Universidade Federal de Juiz de Fora tem a computação como atividade-fim e desta forma tem por objetivo formar profissionais com profunda fundamentação técnica e científica na área, aptos para a inserção em setores profissionais, acadêmicos e científicos, e que possam participar do desenvolvimento da sociedade brasileira e contribuir para o avanço da ciência e da tecnologia."
+        },{
+            "title": "BACHARELADO EM CIÊNCIAS EXATAS (FOCO EM CIÊNCIA DA COMPUTAÇÃO)",
+            "institution": "DCC @ UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+            "begin": "2011",
+            "end": "2017",
+            "description":"O curso de Bacharelado em Ciência da Computação da Universidade Federal de Juiz de Fora tem a computação como atividade-fim e desta forma tem por objetivo formar profissionais com profunda fundamentação técnica e científica na área, aptos para a inserção em setores profissionais, acadêmicos e científicos, e que possam participar do desenvolvimento da sociedade brasileira e contribuir para o avanço da ciência e da tecnologia."
+        },{
+            "title": "CURSO TÉCNICO EM INFORMÁTICA INTEGRADO AO ENSINO MÉDIO",
+            "institution": "@ IF SUDESTE DE MINAS GERAIS",
+            "begin": "2008",
+            "end": "2010",
+            "description":"O curso de Informática forma profissionais para trabalhar em atividades de programação, montagem e manutenção de computadores isolados ou em rede. O profissional é habilitado para identificar a origem das falhas de funcionamento de computadores, periféricos e programas; realizar programação em linguagem de máquina; criar pequenos circuitos digitais para serem ligados a microprocessadores; desenvolver algoritmos e estruturas de dados para a criação de aplicativos; aplicar linguagens e ambientes de programação no desenvolvimento de softwares; e executar ações de treinamento e suporte técnico."
         }
     ]
 }

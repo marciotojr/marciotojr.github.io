@@ -29,8 +29,7 @@ export default function Experience({data, experience, experience_sub}) {
           <h4><b>{experience.title}</b></h4>
           <h5 className="font-yellow"><b>{experience.company}</b></h5>
           <h6 className="margin-t-10">{experience.begin} - {experience.end}</h6>
-          <p className="font-semi-white margin-tb-30"> 
-              {experience.description}
+          <p className="font-semi-white margin-tb-30"  dangerouslySetInnerHTML={{__html: experience.description}}>
           </p>
           <ul className="list margin-b-30">
               {experience.list.map((item, index) => <li key={index}>{item}</li>)}

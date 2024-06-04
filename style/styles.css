@@ -54,7 +54,7 @@ h5{ font-size: 1em; }
 h6{ font-size: .9em; letter-spacing: 1px; }
 
 a, button{ display: inline-block; text-decoration: none; color: inherit; line-height: 1; 
-	-webkit-transition: all .25s ease-in-out; transition: all .25s ease-in-out; }
+	-webkit-transition: all .25s ease-in-out; transition: all .25s ease-in-out;  color: #fcc96b; }
 
 a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
@@ -205,6 +205,8 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .experience .list > li:before{ content: ''; position: absolute; top: 50%; left: 0; height: 10px; 
 	width: 10px; margin-top: -5px; display: block; border-radius: 10px; border: 2px solid #fff; }
 
+.experience a { display: contents;}
+
 	
 /* ---------------------------------
 8. EDUCATION SECTION
@@ -260,3 +262,8 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .copyright{ text-align: center; padding: 30px 0; background: #28023D; }
 
+button:focus{ outline: none; }
+
+button:has( + button){
+	margin-right: 10px;
+}

@@ -33,7 +33,7 @@ export default function Header({STATIC, resume, resumePath, phone, neighborhood,
                               </div>
                           </div>
                       </div>
-                      <div className="col-sm-6 col-md-6 col-lg-1">
+                      <div className="col-sm-6 col-md-6 col-lg-1 d-flex justify-content-end">
                         <button onClick={() => handleClick('pt')}>&#127463;&#127479;</button>
                         <button onClick={() => handleClick('en')}>&#127482;&#127480;</button>
                       </div>

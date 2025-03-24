@@ -12,7 +12,6 @@ export default function Intro({birth, title, birthDate}) {
             <h2><b>Marcio Tadeu Oliveira Júnior, Msc.</b></h2>
             <h4 className="font-yellow">{title}</h4>
             <ul className="information margin-tb-30">
-              <li><b>{birth} : </b>{birthDate}</li>
               <li><b>EMAIL : </b>marciotojr@gmail.com</li>
             </ul>
             <ul className="social-icons">
